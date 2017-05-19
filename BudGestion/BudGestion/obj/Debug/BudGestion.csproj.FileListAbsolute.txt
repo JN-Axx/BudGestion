@@ -7,3 +7,12 @@ C:\Users\Jean-Noël\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudG
 C:\Users\Jean-Noël\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.csproj.GenerateResource.Cache
 C:\Users\Jean-Noël\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.exe
 C:\Users\Jean-Noël\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.pdb
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\bin\Debug\BudGestion.exe.config
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.exe
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.pdb
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\bin\Debug\BudGestion.exe
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\bin\Debug\BudGestion.pdb
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.csprojResolveAssemblyReference.cache
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.Form1.resources
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.Properties.Resources.resources
+C:\Users\gille\Source\Repos\BudGestion\BudGestion\BudGestion\obj\Debug\BudGestion.csproj.GenerateResource.Cache
