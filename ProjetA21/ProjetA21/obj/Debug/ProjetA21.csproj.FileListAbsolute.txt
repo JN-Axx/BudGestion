@@ -7,3 +7,12 @@ C:\Users\gille\Documents\DUT Informatique\A21\0 - Projet\ProjetA21\ProjetA21\obj
 C:\Users\gille\Documents\DUT Informatique\A21\0 - Projet\ProjetA21\ProjetA21\obj\Debug\ProjetA21.csproj.GenerateResource.Cache
 C:\Users\gille\Documents\DUT Informatique\A21\0 - Projet\ProjetA21\ProjetA21\obj\Debug\ProjetA21.exe
 C:\Users\gille\Documents\DUT Informatique\A21\0 - Projet\ProjetA21\ProjetA21\obj\Debug\ProjetA21.pdb
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\bin\Debug\ProjetA21.exe.config
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\obj\Debug\ProjetA21.exe
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\obj\Debug\ProjetA21.pdb
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\bin\Debug\ProjetA21.exe
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\bin\Debug\ProjetA21.pdb
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\obj\Debug\ProjetA21.csprojResolveAssemblyReference.cache
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\obj\Debug\ProjetA21.frmBdgMois.resources
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\obj\Debug\ProjetA21.Properties.Resources.resources
+C:\Users\gille\Source\Repos\BudGestion\ProjetA21\ProjetA21\obj\Debug\ProjetA21.csproj.GenerateResource.Cache
